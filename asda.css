@@ -1,0 +1,60 @@
+header{
+    background-color: rgb(230, 230, 50);
+    text-align: center;
+    flex-basis: 100%;
+
+}
+li{
+    list-style: none;
+}
+nav{
+    margin: 0;
+    padding: 0;
+}
+nav ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+li{
+    list-style-type: none;
+    display: inline-block;
+    margin-right: 10px;
+}
+
+footer{
+    height: 200px;
+    padding: 0px;
+    flex-basis: 100%;
+    background-color: brown;
+}
+main{
+    text-align: center;
+    text-decoration:  overline;
+    color: solid;     
+    flex-basis: 100%;
+    background-color: black;
+
+
+}
+
+p{
+  display: flex;
+  justify-content: center;
+}
+
+body{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 0;
+}
+h1{
+    display: flex;
+    font-family:  'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    justify-content: center;
+    color: black;
+}
+button{
+    text-align: center;
+}

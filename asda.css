@@ -2,7 +2,7 @@ body{
     background-color: beige;
 }
 header{
-    background-color: rgb(230, 230, 50);
+    background-color: gainsboro;
     text-align: center;
     flex-basis: 100%;
 
@@ -29,14 +29,14 @@ footer{
     height: 200px;
     padding: 0px;
     flex-basis: 100%;
-    background-color: brown;
+    background-color: gainsboro;
 }
 main{
     text-align: center;
     text-decoration:  overline;
     color: solid;     
     flex-basis: 100%;
-    background-color: black;
+    background-color:gainsboro;
 
 
 }
